@@ -1,2 +1,0 @@
-# wsproxy
-websocket proxy
